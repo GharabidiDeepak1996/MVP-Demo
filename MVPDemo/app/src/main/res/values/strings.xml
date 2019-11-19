@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MVP Demo</string>
+    <string name="emailid">EmailID</string>
+    <string name="password">password</string>
+    <string name="this_tutorial_is_base_on_mvp">This Tutorial Is Base On MVP</string>
+</resources>
